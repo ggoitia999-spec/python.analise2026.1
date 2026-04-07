@@ -7,6 +7,6 @@ else:
     ir = 0
 sf = s - ir
 print((f"Salário: R$ {s}; Imposto: R$ {ir}; Salário final: R$ {sf}"))
-
+print ("teste git")
 
 
